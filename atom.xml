@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://onedayyu.github.io</id>
+    <id>http://localhost:4000</id>
     <title>Yitian&apos;s Blog</title>
-    <updated>2022-06-30T17:14:08.520Z</updated>
+    <updated>2022-06-30T17:24:33.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://onedayyu.github.io"/>
-    <link rel="self" href="https://onedayyu.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>来路孤独，常有欢喜。</subtitle>
-    <logo>https://onedayyu.github.io/images/avatar.png</logo>
-    <icon>https://onedayyu.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, Yitian&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://onedayyu.github.io/post/about/</id>
-        <link href="https://onedayyu.github.io/post/about/">
+        <id>http://localhost:4000/post/about/</id>
+        <link href="http://localhost:4000/post/about/">
         </link>
         <updated>2022-06-30T11:09:48.000Z</updated>
         <summary type="html"><![CDATA[<p>希望你路过，也能为我驻足。</p>
@@ -40,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你好]]></title>
-        <id>https://onedayyu.github.io/post/ni-hao/</id>
-        <link href="https://onedayyu.github.io/post/ni-hao/">
+        <id>http://localhost:4000/post/ni-hao/</id>
+        <link href="http://localhost:4000/post/ni-hao/">
         </link>
         <updated>2022-06-30T10:38:07.000Z</updated>
         <summary type="html"><![CDATA[<p>交织繁杂，掀起海浪。</p>
@@ -57,7 +57,7 @@
 但往往这个人看不到，不会看，也不想看。</p>
 <p align="right"> ——刘同</p>
 </blockquote>
-<p><img src="https://onedayyu.github.io/post-images/1656591945612.jpg" alt="" loading="lazy"><br>
+<p><img src="http://localhost:4000/post-images/1656591945612.jpg" alt="" loading="lazy"><br>
 没有见到你的时候，我常常在想，<br>
 你是否也站在窗前眺望远方。<br>
 远方的风吹过来，<br>
