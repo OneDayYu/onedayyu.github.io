@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://localhost:4000</id>
     <title>Yitian&apos;s Blog</title>
-    <updated>2022-06-30T18:04:28.724Z</updated>
+    <updated>2022-06-30T19:08:41.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://localhost:4000"/>
     <link rel="self" href="http://localhost:4000/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>http://localhost:4000/images/avatar.png</logo>
     <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, Yitian&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[我在此再一次写到你的名字]]></title>
+        <id>http://localhost:4000/post/wo-zai-ci-zai-yi-ci-xie-dao-ni-de-ming-zi/</id>
+        <link href="http://localhost:4000/post/wo-zai-ci-zai-yi-ci-xie-dao-ni-de-ming-zi/">
+        </link>
+        <updated>2022-06-30T18:37:26.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>我再一次把桶放到井底，听到它刮到月亮的声音</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>我再一次把桶放到井底，听到它刮到月亮的声音</p>
+</blockquote>
+ <!-- more --> 
+<p><img src="http://localhost:4000/post-images/1656614827887.jpeg" alt="" loading="lazy"><br>
+雪深三寸，已覆盖了血肉模糊的部分<br>
+村子里的腊梅开花了，像饱含眼泪的笑脸<br>
+我是它的敌对者，我污浊，幽暗，像百年的老井<br>
+轱辘再打不上一桶井水<br>
+井水里再没有一轮弯月</p>
+<p>我没有穿红色的衣裙。而它们依旧在我梦里翩飞<br>
+我酬谢过的一生，在所有的掩盖里<br>
+你依旧是坚挺的神庙<br>
+仿佛我从来没有顶礼膜拜过。仿佛我的魂已<br>
+典当在那里</p>
+<p>我再一次写到你的的名字，这犯忌之举<br>
+却迎合了我一生的心意<br>
+我再一次把桶放到井底，听到它刮到月亮的声音<br>
+我笑着<br>
+雪花落满了一嘴</p>
+<p>经血濡湿了我的衣服。在我衰老的子宫里<br>
+桃花正在育蕾<br>
+那些修建城墙的人，都是我的前世<br>
+轻轻一碰<br>
+就有无尽的疑问</p>
+<p align='right'>——余秀华</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>http://localhost:4000/post/about/</id>
